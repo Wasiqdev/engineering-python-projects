@@ -1,0 +1,4 @@
+run plot.py for simulation
+
+trajectory.py contains reusable functions that calculate flight time, max height reached, 
+and the horizontal distance travelled by the object
